@@ -22,6 +22,12 @@ Miscellaneous
 * https://github.com/vinsci/geohash/
 * https://github.com/OpenDroneMap/OpenDroneMap
 * https://github.com/mapgears/ol3-google-maps
+ 
+
+Radar
+* http://pyradar-tools.readthedocs.org/en/latest/tutorial.html
+* https://saredu.dlr.de/unit/dem_python
+* https://saredu.dlr.de/unit/insar_basics
 
 Information
 * http://mjfoster83.github.io/projections/index.html#/
