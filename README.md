@@ -12,7 +12,7 @@ Spatial Data
 * https://github.com/geo-data/python-epsg
 * https://gist.github.com/sgillies/2217756
 * https://github.com/naturalatlas/node-gdal
-* 
+
 Miscellaneous
 * https://code.nasa.gov/#/
 
