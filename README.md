@@ -12,6 +12,7 @@ Metadata
 * https://github.com/geopython/pygeometa
 
 Miscellaneous
+* https://github.com/OSGeo/gdal
 * https://github.com/naturalatlas/node-gdal
 * https://github.com/mapbox/rasterio
 * https://code.nasa.gov/#/
@@ -23,6 +24,7 @@ Miscellaneous
 
 Information
 * http://mjfoster83.github.io/projections/index.html#/
+* https://github.com/FOSS4GAcademy
 
 
 
