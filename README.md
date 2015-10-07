@@ -21,6 +21,7 @@ Miscellaneous
 * https://gist.github.com/sgillies/2217756
 * https://github.com/vinsci/geohash/
 * https://github.com/OpenDroneMap/OpenDroneMap
+* https://github.com/mapgears/ol3-google-maps
 
 Information
 * http://mjfoster83.github.io/projections/index.html#/
