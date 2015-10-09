@@ -1,17 +1,17 @@
 # awesome-geoespatial
 List of awesome geoespatial resources
 
-OGC
+## OGC
 * https://github.com/geopython/OWSLib
 * https://github.com/OSGeo/ows.js
 * https://github.com/geopython/GeoHealthCheck
 * https://github.com/geopython/pycsw
 * https://github.com/geopython/pywps
 
-Metadata
+## Metadata
 * https://github.com/geopython/pygeometa
 
-Miscellaneous
+## Miscellaneous
 * https://github.com/OSGeo/gdal
 * https://github.com/naturalatlas/node-gdal
 * http://toblerity.org/shapely/
@@ -25,12 +25,12 @@ Miscellaneous
 * https://github.com/OpenDroneMap/OpenDroneMap
 * https://github.com/mapgears/ol3-google-maps
  
-Radar
+## Radar
 * http://pyradar-tools.readthedocs.org/en/latest/tutorial.html
 * https://saredu.dlr.de/unit/dem_python
 * https://saredu.dlr.de/unit/insar_basics
 
-Information
+## Information
 * http://mjfoster83.github.io/projections/index.html#/
 * https://github.com/FOSS4GAcademy
 
