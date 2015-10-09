@@ -14,6 +14,8 @@ Metadata
 Miscellaneous
 * https://github.com/OSGeo/gdal
 * https://github.com/naturalatlas/node-gdal
+* http://toblerity.org/shapely/
+* http://toblerity.org/rtree/
 * https://github.com/mapbox/rasterio
 * https://code.nasa.gov/#/
 * https://github.com/ngageoint/mrgeo
@@ -23,7 +25,6 @@ Miscellaneous
 * https://github.com/OpenDroneMap/OpenDroneMap
 * https://github.com/mapgears/ol3-google-maps
  
-
 Radar
 * http://pyradar-tools.readthedocs.org/en/latest/tutorial.html
 * https://saredu.dlr.de/unit/dem_python
