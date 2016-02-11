@@ -24,6 +24,7 @@ List of awesome geoespatial resources
 * https://github.com/vinsci/geohash/
 * https://github.com/OpenDroneMap/OpenDroneMap
 * https://github.com/mapgears/ol3-google-maps
+* https://github.com/jjrom/mapshup
  
 ## Radar
 * http://pyradar-tools.readthedocs.org/en/latest/tutorial.html
