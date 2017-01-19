@@ -7,6 +7,7 @@ List of awesome geoespatial resources
 * https://github.com/geopython/GeoHealthCheck
 * https://github.com/geopython/pycsw
 * https://github.com/geopython/pywps
+* http://www.geopackage.org/
 
 ## Metadata
 * https://github.com/geopython/pygeometa
