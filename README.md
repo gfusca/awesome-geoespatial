@@ -37,8 +37,9 @@ List of awesome geoespatial resources
 * http://mjfoster83.github.io/projections/index.html#/
 * https://github.com/FOSS4GAcademy
 
-## Maps
+## Javascript
  * https://github.com/mapzen/mapzen.js
+ * https://github.com/shashwatak/satellite-js
 
 
 
