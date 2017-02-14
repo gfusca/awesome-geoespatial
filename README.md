@@ -44,6 +44,9 @@ List of awesome geoespatial resources
  
 ## WebGL
  * https://github.com/jeyoder/ThingsInSpace/tree/master/web-root
+ 
+## Image processing
+ * https://github.com/BradNeuberg/cloudless
 
 
 
