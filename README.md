@@ -28,6 +28,7 @@ List of awesome geoespatial resources
 * https://github.com/jjrom/mapshup
 * http://geogig.org/
 * http://what3words.com/
+* https://github.com/ngageoint/geowave
 
 ## Radar
 * http://pyradar-tools.readthedocs.org/en/latest/tutorial.html
